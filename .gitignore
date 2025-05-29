@@ -1,0 +1,22 @@
+# Maven
+target/
+*.log
+dependency-reduced-pom.xml
+buildNumber.properties
+release.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# OS-specific
+.DS_Store        # macOS
+Thumbs.db        # Windows
+
+# Logs
+*.log
+
+# Class files
+*.class
